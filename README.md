@@ -1,2 +1,2 @@
-# about 
-a bill making solution for Arman Enterprises
+# About 
+A bill making solution for Arman Enterprises.
